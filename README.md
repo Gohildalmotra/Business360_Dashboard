@@ -9,9 +9,7 @@ AtliQ Hardware is embarking on a data analytics journey using Power BI to stay a
 
 AtliQ Hardware, a global computer and accessories company, has expanded worldwide through retailers, direct sales, and distributors. To overcome recent losses and competitor advantages, AtliQ is embracing data analytics for informed decision-making.
 
-I undertook this project following the Codebasics Power BI Course
-
-([https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance?utm_campaign=dataanalyticsbootcamp&utm_id=googleadspaid&gad_source=1&gclid=CjwKCAjw0YGyBhByEiwAQmBEWooueQUvDvOra8nJo69BQPloIGH4ubJFn3nMisizjjBF2Q2IvvVpthoCy8IQAvD_BwE])
+I undertook this project following the Codebasics Power BI Course (https://codebasics.io/)
 
 
 
