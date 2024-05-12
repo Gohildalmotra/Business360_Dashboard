@@ -13,7 +13,8 @@ I undertook this project following the Codebasics Power BI Course (https://codeb
 
 
 
-**Live Report Link:** [https://app.powerbi.com/view?r=eyJrIjoiZmVhZjllMmItODgwYS00N2VlLWJjYjktOTdjMzBkYTA2MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+## Live Report Link:
+[https://app.powerbi.com/view?r=eyJrIjoiZmVhZjllMmItODgwYS00N2VlLWJjYjktOTdjMzBkYTA2MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ## Tech Stacks
 
