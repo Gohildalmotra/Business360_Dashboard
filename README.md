@@ -43,11 +43,6 @@ I undertook this project following the Codebasics Power BI Course (https://codeb
 - Power BI App creation
 - Collaboration and workspace management in Power BI services
 
-## GitHub
-
-- Uploading large files using GitHub LFS
-- Tracking specific file extensions for LFS
-
 ## Business Terminology
 
 - Gross price
@@ -176,4 +171,3 @@ Each button leads to a focused area, ensuring efficient navigation and access to
 
 ![360 executive ](https://github.com/Gohildalmotra/Business360_Dashboard/assets/123579887/1d9ec719-cebf-49c8-a76a-4751e62d136f)
 
-you can find the full report file here : Report
